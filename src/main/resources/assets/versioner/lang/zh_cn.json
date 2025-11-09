@@ -1,0 +1,20 @@
+{
+  "versioner.variables.current_version": "当前版本：",
+  "versioner.variables.latest_version": "最新版本：",
+  "versioner.variables.update_link": "更新链接",
+  "versioner.variables.sponsors_list": "赞助者列表",
+  "versioner.variables.update_link_tooltip": "点击打开更新链接！",
+  "versioner.variables.sponsors_list_tooltip": "点击查看所有赞助者！",
+  "versioner.variables.n_versions_newer": "(领先%s个版本)",
+  "versioner.variables.update_chat_message_title": "整合包有更新可用！",
+  "versioner.variables.changelogs": "更新日志：",
+  "versioner.variables.sponsors": "赞助者：",
+  "versioner.variables.update_available.true": "有更新可用！ %s",
+  "versioner.variables.update_available.latest": "最新版本： %s",
+  "versioner.variables.update_available.false": "你当前游玩的是最新版本！",
+  "versioner.variables.update_available.fail": "更新检查失败！",
+  "versioner.variables.update_check_failed": "无法检查整合包更新，请检查你的网络连接。如果你确信不是你的问题，请联系整合包作者。",
+  "versioner.command.sponsors.check_true": "%s 是处于 %s 类别中的赞助者",
+  "versioner.command.sponsors.check_false": "%s 不是赞助者！",
+  "versioner.command.sponsors.no_data": "无数据"
+}
